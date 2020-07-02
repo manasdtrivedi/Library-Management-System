@@ -1590,15 +1590,15 @@ JOptionPane.showMessageDialog(null, e.getMessage());
 }//GEN-LAST:event_issueBook3ButtonActionPerformed
 
     private void clear3ButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_clear3ButtonActionPerformed
-bookID3TextField.setText("");
-memberID3TextField.setText("");
-dateOfIssue3TextField.setText("");
-title3OutputLabel.setText("");
-author3OutputLabel.setText("");
-name3OutputLabel.setText("");
-class3OutputLabel.setText("");
-section3OutputLabel.setText("");
-bookID3TextField.requestFocus();// TODO add your handling code here:
+	bookID3TextField.setText("");
+	memberID3TextField.setText("");
+	dateOfIssue3TextField.setText("");
+	title3OutputLabel.setText("");
+	author3OutputLabel.setText("");
+	name3OutputLabel.setText("");
+	class3OutputLabel.setText("");
+	section3OutputLabel.setText("");
+	bookID3TextField.requestFocus();// TODO add your handling code here:
 }//GEN-LAST:event_clear3ButtonActionPerformed
 
     private void clear4ButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_clear4ButtonActionPerformed
